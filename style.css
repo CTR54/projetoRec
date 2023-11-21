@@ -77,9 +77,18 @@ p{
     background-color: rgba(0, 0, 0, 0.733);
 }
 
+ol img{
+    padding: 25px;
+    
+}
+
+.img-vertical{
+    width: 40vw;
+}
+
 dt{
     line-height: 1.5;
-    margin: 20px;
+    margin: 30px;
     
 }
 dt img{
